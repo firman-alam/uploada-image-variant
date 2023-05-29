@@ -9,10 +9,19 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@emotion/react": "^11.11.0",
+    "@emotion/styled": "^11.11.0",
+    "@mui/material": "^5.13.2",
     "eslint": "8.41.0",
     "eslint-config-next": "13.4.4",
+    "formik": "^2.4.0",
+    "mdi-material-ui": "^7.7.0",
     "next": "13.4.4",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-dropzone": "^14.2.3",
+    "react-number-format": "^5.2.2",
+    "react-quill": "^2.0.0",
+    "yup": "^1.2.0"
   }
 }
